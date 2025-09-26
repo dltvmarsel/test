@@ -5,7 +5,7 @@ git config --global user.email "dltv.marsel@gmail.com"
 
 +++++++++ Команда на один раз для проекта +++++++++
 git init       | инициализация репозитория
-git remote add origin https://github.com/arzy-54-2/OOP-58-2.git
+git remote add origin https://github.com/arzy-54-2 
 
 
 
