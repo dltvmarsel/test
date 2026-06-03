@@ -5,9 +5,11 @@ def initialize():
 
 def is_empty(size):
     return size == 0
-rsusetntuhsetundtjidi
-drtdrtft
-ftft
+hello word
+kfkfvfabvjav
+afv
+af
+
 def is_full(size):
     return size >= MAX_SIZE
 
