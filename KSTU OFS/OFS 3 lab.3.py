@@ -28,4 +28,4 @@ while True:
         break
 
     x += h
-print "Hello world"
+print "hello world"
