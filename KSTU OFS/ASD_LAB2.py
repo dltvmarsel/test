@@ -6,6 +6,8 @@ def initialize():
 def is_empty(size):
     return size == 0
 keriwehriцкеоо
+gdkglkdfjgkdgdrgrogpdjg
+hgfhgfhgfhgfh
 
 пвпваповапо
 def is_full(size):
